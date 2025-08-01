@@ -14,7 +14,6 @@
 ## Cómo correrlo 
 # Clona (o descarga) este repositorio
 git clone https://github.com/MClovin9111/TriangulosLuisSaavedra.git
-cd Triangulos
 
 # Ejecuta el programa
 python main.py
